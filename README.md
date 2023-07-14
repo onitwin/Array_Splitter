@@ -5,4 +5,4 @@ Navigate to file
 Scroll to line 29 to update arguements
 Open command terminal
 enter:
-'''node generateSubArray.js'''
+```node generateSubArray.js```
